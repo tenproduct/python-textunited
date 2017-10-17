@@ -1,0 +1,16 @@
+[paths]
+source =
+   src/textunited
+   */site-packages/textunited
+
+[run]
+branch = true
+source =
+    textunited
+    tests
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*

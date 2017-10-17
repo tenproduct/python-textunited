@@ -1,0 +1,177 @@
+===================
+Supported languages
+===================
+
+In this moment, the language supported by this library are the following ones:
+
+- ar_ae = 21  # Arabic (United Arab Emirates)
+- de_de = 53  # German (Germany)
+- en_ca = 158  # English (Canada)
+- en_gb = 40  # English (UK)
+- en_us = 41  # English (US)
+- es_co = 108  # Spanish (Colombia)
+- es_es = 104  # Spanish (Spain)
+- fr_ca = 48  # French (Canada)
+- ja = 72  # Japanese
+- ko = 76  # Korean
+- pt_br = 94  # Portuguese (Brazil)
+- zh_hant = 33  # Chinese (Traditional)
+- zn_hans = 32  # Chinese (Simplified)
+
+Text United supports the following languages. Those languages can be enabled by
+adding the language code and the identifier in languages.py.
+
+- Abkhaz
+- Afrikaans
+- Albanian
+- Amharic
+- Arabic (Algeria)
+- Arabic (Bahrain)
+- Arabic (Egypt)
+- Arabic (General)
+- Arabic (Iraq)
+- Arabic (Jordan)
+- Arabic (Kuwait)
+- Arabic (Lebanon)
+- Arabic (Libyan Arab Jamahiriya)
+- Arabic (Morocco)
+- Arabic (Oman)
+- Arabic (Qatar)
+- Arabic (Saudi Arabia)
+- Arabic (Sudan)
+- Arabic (Syrian Arab Republic)
+- Arabic (Tunisia)
+- Arabic (United Arab Emirates)
+- Arabic (Yemen)
+- Armenian
+- Assamese
+- Azerbaijani
+- Basque
+- Belarusian
+- Bengali
+- Bodo
+- Bosnian
+- Bulgarian
+- Catalan
+- Chinese
+- Chinese (Simplified)
+- Chinese (Traditional)
+- Croatian
+- Czech
+- Danish
+- Dogri
+- Dutch (Belgium)
+- Dutch (Netherlands)
+- English (UK)
+- English (US)
+- Esperanto
+- Estonian
+- Faroese
+- Fijian
+- Finnish
+- French (Belgium)
+- French (Canada)
+- French (France)
+- French (Swiss)
+- Galician
+- Georgian
+- German (Austria)
+- German (Germany)
+- German (Lichtenstein)
+- German (Luxembourg)
+- German (Swiss)
+- Greek
+- Greenlandic
+- Guarani
+- Gujarati
+- Haitian Creole
+- Hausa
+- Hebrew
+- Hindi
+- Hungarian
+- Icelandic
+- Igbo
+- Indonesian
+- Irish (Gaelic)
+- Italian
+- Italian (Swiss)
+- Japanese
+- Javanese
+- Kannada
+- Kashmiri
+- Kazakh
+- Kirghiz (Kyrgyz)
+- Konkani
+- Korean
+- Kurdish
+- Lao
+- Latin
+- Latvian
+- Lithuanian
+- Macedonian
+- Maithili
+- Malay/Malaysian
+- Malayalam
+- Maltese
+- Marathi
+- Meitei (Manipuri)
+- Moldovan
+- Mongolian
+- Montenegrin
+- Nepali
+- Norwegian
+- Odia
+- Pashto
+- Persian
+- Polish
+- Portuguese (Brazil)
+- Portuguese (Portugal)
+- Punjabi
+- Romanian
+- Russian
+- Sanskrit
+- Santali
+- Scottish Gaelic
+- Serbian
+- Sindhi
+- Slovak
+- Slovenian
+- Somali
+- Spanish (Argentina)
+- Spanish (Bolivia)
+- Spanish (Chile)
+- Spanish (Colombia)
+- Spanish (Costa Rica)
+- Spanish (Dominican Republic)
+- Spanish (El Salvador)
+- Spanish (Equador)
+- Spanish (Guatemala)
+- Spanish (Honduras)
+- Spanish (Mexico)
+- Spanish (Nicaragua)
+- Spanish (Panama)
+- Spanish (Paraguay)
+- Spanish (Peru)
+- Spanish (Puerto Rico)
+- Spanish (Spain)
+- Spanish (US)
+- Spanish (Uruguay)
+- Spanish (Venezuela)
+- Swahili
+- Swedish
+- Tagalog
+- Tamil
+- Tatar
+- Telugu
+- Thai
+- Tibetan
+- Turkish
+- Turkmen
+- Ukrainian
+- Urdu
+- Uzbek
+- Vietnamese
+- Welsh
+- Xhosa
+- Yoruba
+- Zulu
